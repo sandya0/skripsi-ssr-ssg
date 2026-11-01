@@ -1,0 +1,14 @@
+{
+  "name": "skripsi-ssr-ssg-experiment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Otomasi audit Lighthouse berpasangan untuk eksperimen SSR vs SSG (Bab 3).",
+  "type": "module",
+  "engines": {
+    "node": ">=22.19"
+  },
+  "dependencies": {
+    "chrome-launcher": "1.2.2",
+    "lighthouse": "13.6.0"
+  }
+}

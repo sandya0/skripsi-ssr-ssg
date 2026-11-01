@@ -1,0 +1,5647 @@
+{
+  "versi": 1,
+  "seed": 20261102,
+  "dibuat": "2026-11-02",
+  "produk": [
+    {
+      "slug": "produk-001",
+      "nama": "Meja Kerja Modern 287",
+      "kategori": "Perabot Kantor",
+      "harga": 1921000,
+      "rating": 3.8,
+      "jumlahUlasan": 548,
+      "bahan": "kayu jati",
+      "warna": "cokelat",
+      "kota": "Bandung",
+      "garansi": 12,
+      "gambar": "/img/produk-01.jpg",
+      "deskripsi": [
+        "Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Meja Kerja Modern 287 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat.",
+        "Meja Kerja Modern 287 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "121 x 22 x 51 cm"
+        ],
+        [
+          "Berat",
+          "25.5 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0001"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        }
+      ],
+      "terkait": [
+        "produk-042",
+        "produk-005",
+        "produk-003",
+        "produk-034",
+        "produk-060",
+        "produk-037",
+        "produk-055",
+        "produk-007"
+      ]
+    },
+    {
+      "slug": "produk-002",
+      "nama": "Panci Presto Ringkas 184",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 3585000,
+      "rating": 4.2,
+      "jumlahUlasan": 39,
+      "bahan": "plastik ABS",
+      "warna": "hitam",
+      "kota": "Yogyakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-02.jpg",
+      "deskripsi": [
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Yogyakarta. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Panci Presto Ringkas 184 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Panci Presto Ringkas 184 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "56 x 37 x 26 cm"
+        ],
+        [
+          "Berat",
+          "21.7 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Yogyakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0002"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        }
+      ],
+      "terkait": [
+        "produk-059",
+        "produk-018",
+        "produk-017",
+        "produk-045",
+        "produk-012",
+        "produk-051",
+        "produk-055",
+        "produk-038"
+      ]
+    },
+    {
+      "slug": "produk-003",
+      "nama": "Ketel Listrik Modern 136",
+      "kategori": "Elektronik Rumah",
+      "harga": 225000,
+      "rating": 4.9,
+      "jumlahUlasan": 376,
+      "bahan": "kain kanvas",
+      "warna": "hijau zaitun",
+      "kota": "Surabaya",
+      "garansi": 6,
+      "gambar": "/img/produk-03.jpg",
+      "deskripsi": [
+        "Ketel Listrik Modern 136 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Ketel Listrik Modern 136 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Ketel Listrik Modern 136 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "kain kanvas"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "40 x 55 x 47 cm"
+        ],
+        [
+          "Berat",
+          "27.3 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0003"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-051",
+        "produk-001",
+        "produk-043",
+        "produk-021",
+        "produk-056",
+        "produk-023",
+        "produk-012",
+        "produk-034"
+      ]
+    },
+    {
+      "slug": "produk-004",
+      "nama": "Pena Gel Pro 304",
+      "kategori": "Alat Tulis",
+      "harga": 3755000,
+      "rating": 4.6,
+      "jumlahUlasan": 470,
+      "bahan": "bambu",
+      "warna": "abu-abu",
+      "kota": "Medan",
+      "garansi": 24,
+      "gambar": "/img/produk-04.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Pena Gel Pro 304 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat.",
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Pena Gel Pro 304 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "abu-abu"
+        ],
+        [
+          "Dimensi",
+          "126 x 49 x 77 cm"
+        ],
+        [
+          "Berat",
+          "2.2 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0004"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-027",
+        "produk-019",
+        "produk-010",
+        "produk-041",
+        "produk-040",
+        "produk-028",
+        "produk-052",
+        "produk-016"
+      ]
+    },
+    {
+      "slug": "produk-005",
+      "nama": "Matras Yoga Lipat 806",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 441000,
+      "rating": 4.4,
+      "jumlahUlasan": 785,
+      "bahan": "kayu jati",
+      "warna": "hitam",
+      "kota": "Makassar",
+      "garansi": 12,
+      "gambar": "/img/produk-05.jpg",
+      "deskripsi": [
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan. Matras Yoga Lipat 806 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "23 x 32 x 90 cm"
+        ],
+        [
+          "Berat",
+          "13.8 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Makassar"
+        ],
+        [
+          "Kode produk",
+          "KP-0005"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-010",
+        "produk-049",
+        "produk-041",
+        "produk-028",
+        "produk-011",
+        "produk-056",
+        "produk-021",
+        "produk-007"
+      ]
+    },
+    {
+      "slug": "produk-006",
+      "nama": "Penyiram Otomatis Premium 916",
+      "kategori": "Peralatan Taman",
+      "harga": 296000,
+      "rating": 4.2,
+      "jumlahUlasan": 776,
+      "bahan": "kayu jati",
+      "warna": "biru tua",
+      "kota": "Jakarta",
+      "garansi": 6,
+      "gambar": "/img/produk-06.jpg",
+      "deskripsi": [
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "95 x 42 x 82 cm"
+        ],
+        [
+          "Berat",
+          "1.4 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0006"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-023",
+        "produk-056",
+        "produk-008",
+        "produk-010",
+        "produk-049",
+        "produk-032",
+        "produk-043",
+        "produk-031"
+      ]
+    },
+    {
+      "slug": "produk-007",
+      "nama": "Meja Lipat Plus 310",
+      "kategori": "Perabot Kantor",
+      "harga": 2811000,
+      "rating": 4.9,
+      "jumlahUlasan": 312,
+      "bahan": "kaca tempered",
+      "warna": "putih",
+      "kota": "Yogyakarta",
+      "garansi": 24,
+      "gambar": "/img/produk-07.jpg",
+      "deskripsi": [
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Yogyakarta. Meja Lipat Plus 310 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "143 x 20 x 53 cm"
+        ],
+        [
+          "Berat",
+          "14.1 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Yogyakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0007"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-057",
+        "produk-024",
+        "produk-012",
+        "produk-030",
+        "produk-023",
+        "produk-046",
+        "produk-058",
+        "produk-016"
+      ]
+    },
+    {
+      "slug": "produk-008",
+      "nama": "Rak Piring Plus 917",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 4090000,
+      "rating": 4.8,
+      "jumlahUlasan": 428,
+      "bahan": "bambu",
+      "warna": "biru tua",
+      "kota": "Surabaya",
+      "garansi": 12,
+      "gambar": "/img/produk-08.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Rak Piring Plus 917 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "49 x 55 x 58 cm"
+        ],
+        [
+          "Berat",
+          "14.4 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0008"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-038",
+        "produk-020",
+        "produk-052",
+        "produk-018",
+        "produk-039",
+        "produk-033",
+        "produk-007",
+        "produk-047"
+      ]
+    },
+    {
+      "slug": "produk-009",
+      "nama": "Pemurni Udara Plus 894",
+      "kategori": "Elektronik Rumah",
+      "harga": 3590000,
+      "rating": 5,
+      "jumlahUlasan": 723,
+      "bahan": "kaca tempered",
+      "warna": "krem",
+      "kota": "Yogyakarta",
+      "garansi": 24,
+      "gambar": "/img/produk-09.jpg",
+      "deskripsi": [
+        "Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Pemurni Udara Plus 894 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Pemurni Udara Plus 894 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat.",
+        "Pemurni Udara Plus 894 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Yogyakarta. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Pemurni Udara Plus 894 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "129 x 79 x 38 cm"
+        ],
+        [
+          "Berat",
+          "7.3 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Yogyakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0009"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-024",
+        "produk-041",
+        "produk-058",
+        "produk-036",
+        "produk-010",
+        "produk-012",
+        "produk-038",
+        "produk-006"
+      ]
+    },
+    {
+      "slug": "produk-010",
+      "nama": "Map Plastik Plus 857",
+      "kategori": "Alat Tulis",
+      "harga": 4331000,
+      "rating": 3.8,
+      "jumlahUlasan": 28,
+      "bahan": "aluminium",
+      "warna": "cokelat",
+      "kota": "Bandung",
+      "garansi": 6,
+      "gambar": "/img/produk-10.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Map Plastik Plus 857 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "133 x 83 x 90 cm"
+        ],
+        [
+          "Berat",
+          "17.7 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0010"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-013",
+        "produk-043",
+        "produk-016",
+        "produk-036",
+        "produk-042",
+        "produk-022",
+        "produk-056",
+        "produk-008"
+      ]
+    },
+    {
+      "slug": "produk-011",
+      "nama": "Botol Minum Plus 447",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 3610000,
+      "rating": 4.8,
+      "jumlahUlasan": 320,
+      "bahan": "plastik ABS",
+      "warna": "hijau zaitun",
+      "kota": "Medan",
+      "garansi": 24,
+      "gambar": "/img/produk-11.jpg",
+      "deskripsi": [
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Botol Minum Plus 447 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "51 x 63 x 91 cm"
+        ],
+        [
+          "Berat",
+          "28.4 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0011"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-028",
+        "produk-026",
+        "produk-014",
+        "produk-051",
+        "produk-030",
+        "produk-049",
+        "produk-006",
+        "produk-037"
+      ]
+    },
+    {
+      "slug": "produk-012",
+      "nama": "Pot Tanaman Ringkas 729",
+      "kategori": "Peralatan Taman",
+      "harga": 1248000,
+      "rating": 4.4,
+      "jumlahUlasan": 593,
+      "bahan": "aluminium",
+      "warna": "abu-abu",
+      "kota": "Bandung",
+      "garansi": 12,
+      "gambar": "/img/produk-12.jpg",
+      "deskripsi": [
+        "Pot Tanaman Ringkas 729 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Pot Tanaman Ringkas 729 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Pot Tanaman Ringkas 729 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "abu-abu"
+        ],
+        [
+          "Dimensi",
+          "81 x 20 x 67 cm"
+        ],
+        [
+          "Berat",
+          "6.0 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0012"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-044",
+        "produk-046",
+        "produk-050",
+        "produk-010",
+        "produk-041",
+        "produk-029",
+        "produk-032",
+        "produk-054"
+      ]
+    },
+    {
+      "slug": "produk-013",
+      "nama": "Rak Arsip Ringkas 441",
+      "kategori": "Perabot Kantor",
+      "harga": 2636000,
+      "rating": 3.8,
+      "jumlahUlasan": 120,
+      "bahan": "plastik ABS",
+      "warna": "cokelat",
+      "kota": "Semarang",
+      "garansi": 24,
+      "gambar": "/img/produk-01.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Rak Arsip Ringkas 441 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat.",
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Rak Arsip Ringkas 441 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "75 x 57 x 84 cm"
+        ],
+        [
+          "Berat",
+          "24.9 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Semarang"
+        ],
+        [
+          "Kode produk",
+          "KP-0013"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        }
+      ],
+      "terkait": [
+        "produk-060",
+        "produk-032",
+        "produk-004",
+        "produk-002",
+        "produk-026",
+        "produk-047",
+        "produk-025",
+        "produk-003"
+      ]
+    },
+    {
+      "slug": "produk-014",
+      "nama": "Rak Piring Premium 771",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 3274000,
+      "rating": 4.5,
+      "jumlahUlasan": 53,
+      "bahan": "aluminium",
+      "warna": "putih",
+      "kota": "Surabaya",
+      "garansi": 6,
+      "gambar": "/img/produk-02.jpg",
+      "deskripsi": [
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya.",
+        "Rak Piring Premium 771 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "22 x 43 x 92 cm"
+        ],
+        [
+          "Berat",
+          "28.1 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0014"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Indah",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-042",
+        "produk-058",
+        "produk-013",
+        "produk-053",
+        "produk-001",
+        "produk-007",
+        "produk-019",
+        "produk-016"
+      ]
+    },
+    {
+      "slug": "produk-015",
+      "nama": "Pemurni Udara Premium 244",
+      "kategori": "Elektronik Rumah",
+      "harga": 2114000,
+      "rating": 4.2,
+      "jumlahUlasan": 262,
+      "bahan": "plastik ABS",
+      "warna": "krem",
+      "kota": "Bandung",
+      "garansi": 12,
+      "gambar": "/img/produk-03.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Pemurni Udara Premium 244 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "106 x 33 x 95 cm"
+        ],
+        [
+          "Berat",
+          "4.5 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0015"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-001",
+        "produk-031",
+        "produk-054",
+        "produk-010",
+        "produk-050",
+        "produk-059",
+        "produk-052",
+        "produk-055"
+      ]
+    },
+    {
+      "slug": "produk-016",
+      "nama": "Papan Tulis Klasik 736",
+      "kategori": "Alat Tulis",
+      "harga": 442000,
+      "rating": 3.9,
+      "jumlahUlasan": 423,
+      "bahan": "kaca tempered",
+      "warna": "biru tua",
+      "kota": "Tangerang",
+      "garansi": 6,
+      "gambar": "/img/produk-04.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Papan Tulis Klasik 736 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "73 x 74 x 85 cm"
+        ],
+        [
+          "Berat",
+          "17.0 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Tangerang"
+        ],
+        [
+          "Kode produk",
+          "KP-0016"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-002",
+        "produk-020",
+        "produk-032",
+        "produk-012",
+        "produk-034",
+        "produk-023",
+        "produk-058",
+        "produk-046"
+      ]
+    },
+    {
+      "slug": "produk-017",
+      "nama": "Sepatu Lari Lipat 719",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 1491000,
+      "rating": 3.7,
+      "jumlahUlasan": 589,
+      "bahan": "bambu",
+      "warna": "cokelat",
+      "kota": "Jakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-05.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "69 x 42 x 107 cm"
+        ],
+        [
+          "Berat",
+          "23.8 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0017"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        }
+      ],
+      "terkait": [
+        "produk-038",
+        "produk-018",
+        "produk-058",
+        "produk-034",
+        "produk-001",
+        "produk-040",
+        "produk-047",
+        "produk-052"
+      ]
+    },
+    {
+      "slug": "produk-018",
+      "nama": "Pot Tanaman Lite 273",
+      "kategori": "Peralatan Taman",
+      "harga": 4075000,
+      "rating": 4.2,
+      "jumlahUlasan": 17,
+      "bahan": "bambu",
+      "warna": "hitam",
+      "kota": "Tangerang",
+      "garansi": 12,
+      "gambar": "/img/produk-06.jpg",
+      "deskripsi": [
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Pot Tanaman Lite 273 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "57 x 43 x 95 cm"
+        ],
+        [
+          "Berat",
+          "1.3 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Tangerang"
+        ],
+        [
+          "Kode produk",
+          "KP-0018"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        }
+      ],
+      "terkait": [
+        "produk-060",
+        "produk-042",
+        "produk-015",
+        "produk-048",
+        "produk-054",
+        "produk-022",
+        "produk-041",
+        "produk-020"
+      ]
+    },
+    {
+      "slug": "produk-019",
+      "nama": "Meja Lipat Plus 438",
+      "kategori": "Perabot Kantor",
+      "harga": 305000,
+      "rating": 4.2,
+      "jumlahUlasan": 180,
+      "bahan": "kaca tempered",
+      "warna": "krem",
+      "kota": "Medan",
+      "garansi": 6,
+      "gambar": "/img/produk-07.jpg",
+      "deskripsi": [
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Meja Lipat Plus 438 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Medan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "56 x 43 x 109 cm"
+        ],
+        [
+          "Berat",
+          "0.3 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0019"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-051",
+        "produk-037",
+        "produk-028",
+        "produk-014",
+        "produk-040",
+        "produk-043",
+        "produk-018",
+        "produk-025"
+      ]
+    },
+    {
+      "slug": "produk-020",
+      "nama": "Talenan Kayu Ringkas 772",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 4333000,
+      "rating": 3.7,
+      "jumlahUlasan": 531,
+      "bahan": "bambu",
+      "warna": "krem",
+      "kota": "Bandung",
+      "garansi": 24,
+      "gambar": "/img/produk-08.jpg",
+      "deskripsi": [
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Talenan Kayu Ringkas 772 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "46 x 86 x 12 cm"
+        ],
+        [
+          "Berat",
+          "16.6 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0020"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-023",
+        "produk-022",
+        "produk-058",
+        "produk-060",
+        "produk-007",
+        "produk-005",
+        "produk-037",
+        "produk-047"
+      ]
+    },
+    {
+      "slug": "produk-021",
+      "nama": "Lampu Meja Pro 899",
+      "kategori": "Elektronik Rumah",
+      "harga": 4226000,
+      "rating": 4.7,
+      "jumlahUlasan": 25,
+      "bahan": "aluminium",
+      "warna": "cokelat",
+      "kota": "Surabaya",
+      "garansi": 12,
+      "gambar": "/img/produk-09.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya.",
+        "Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "127 x 32 x 35 cm"
+        ],
+        [
+          "Berat",
+          "29.6 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0021"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        }
+      ],
+      "terkait": [
+        "produk-001",
+        "produk-029",
+        "produk-031",
+        "produk-016",
+        "produk-036",
+        "produk-047",
+        "produk-026",
+        "produk-028"
+      ]
+    },
+    {
+      "slug": "produk-022",
+      "nama": "Organizer Meja Ringkas 369",
+      "kategori": "Alat Tulis",
+      "harga": 435000,
+      "rating": 4.3,
+      "jumlahUlasan": 801,
+      "bahan": "bambu",
+      "warna": "putih",
+      "kota": "Surabaya",
+      "garansi": 6,
+      "gambar": "/img/produk-10.jpg",
+      "deskripsi": [
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "67 x 65 x 119 cm"
+        ],
+        [
+          "Berat",
+          "20.6 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0022"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Indah",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-005",
+        "produk-011",
+        "produk-049",
+        "produk-015",
+        "produk-052",
+        "produk-054",
+        "produk-043",
+        "produk-018"
+      ]
+    },
+    {
+      "slug": "produk-023",
+      "nama": "Matras Yoga Lipat 680",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 2421000,
+      "rating": 4.2,
+      "jumlahUlasan": 130,
+      "bahan": "kayu jati",
+      "warna": "cokelat",
+      "kota": "Semarang",
+      "garansi": 24,
+      "gambar": "/img/produk-11.jpg",
+      "deskripsi": [
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Matras Yoga Lipat 680 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian.",
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Matras Yoga Lipat 680 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "99 x 28 x 39 cm"
+        ],
+        [
+          "Berat",
+          "21.1 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Semarang"
+        ],
+        [
+          "Kode produk",
+          "KP-0023"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-027",
+        "produk-037",
+        "produk-007",
+        "produk-010",
+        "produk-005",
+        "produk-006",
+        "produk-054",
+        "produk-021"
+      ]
+    },
+    {
+      "slug": "produk-024",
+      "nama": "Gunting Dahan Modern 695",
+      "kategori": "Peralatan Taman",
+      "harga": 2497000,
+      "rating": 4.5,
+      "jumlahUlasan": 150,
+      "bahan": "kaca tempered",
+      "warna": "krem",
+      "kota": "Medan",
+      "garansi": 12,
+      "gambar": "/img/produk-12.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Gunting Dahan Modern 695 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian.",
+        "Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Medan. Gunting Dahan Modern 695 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "145 x 39 x 25 cm"
+        ],
+        [
+          "Berat",
+          "18.8 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0024"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-037",
+        "produk-027",
+        "produk-054",
+        "produk-038",
+        "produk-051",
+        "produk-018",
+        "produk-021",
+        "produk-056"
+      ]
+    },
+    {
+      "slug": "produk-025",
+      "nama": "Lemari Dokumen Lipat 307",
+      "kategori": "Perabot Kantor",
+      "harga": 1738000,
+      "rating": 4.4,
+      "jumlahUlasan": 576,
+      "bahan": "aluminium",
+      "warna": "krem",
+      "kota": "Jakarta",
+      "garansi": 24,
+      "gambar": "/img/produk-01.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Lemari Dokumen Lipat 307 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Lemari Dokumen Lipat 307 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "78 x 47 x 74 cm"
+        ],
+        [
+          "Berat",
+          "2.8 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0025"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        }
+      ],
+      "terkait": [
+        "produk-038",
+        "produk-054",
+        "produk-023",
+        "produk-018",
+        "produk-007",
+        "produk-037",
+        "produk-052",
+        "produk-043"
+      ]
+    },
+    {
+      "slug": "produk-026",
+      "nama": "Talenan Kayu Eco 494",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 4717000,
+      "rating": 3.7,
+      "jumlahUlasan": 195,
+      "bahan": "bambu",
+      "warna": "putih",
+      "kota": "Medan",
+      "garansi": 24,
+      "gambar": "/img/produk-02.jpg",
+      "deskripsi": [
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Medan. Talenan Kayu Eco 494 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat. Talenan Kayu Eco 494 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat.",
+        "Talenan Kayu Eco 494 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Talenan Kayu Eco 494 dirancang untuk penggunaan sehari-hari dengan bahan bambu yang kokoh dan mudah dirawat. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Medan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "117 x 75 x 88 cm"
+        ],
+        [
+          "Berat",
+          "8.1 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0026"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        }
+      ],
+      "terkait": [
+        "produk-009",
+        "produk-043",
+        "produk-025",
+        "produk-001",
+        "produk-016",
+        "produk-032",
+        "produk-042",
+        "produk-045"
+      ]
+    },
+    {
+      "slug": "produk-027",
+      "nama": "Pemurni Udara Plus 970",
+      "kategori": "Elektronik Rumah",
+      "harga": 1756000,
+      "rating": 4.6,
+      "jumlahUlasan": 521,
+      "bahan": "kayu jati",
+      "warna": "hitam",
+      "kota": "Jakarta",
+      "garansi": 6,
+      "gambar": "/img/produk-03.jpg",
+      "deskripsi": [
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "134 x 39 x 61 cm"
+        ],
+        [
+          "Berat",
+          "21.3 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0027"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-022",
+        "produk-009",
+        "produk-055",
+        "produk-052",
+        "produk-011",
+        "produk-036",
+        "produk-046",
+        "produk-056"
+      ]
+    },
+    {
+      "slug": "produk-028",
+      "nama": "Organizer Meja Premium 477",
+      "kategori": "Alat Tulis",
+      "harga": 2567000,
+      "rating": 3.6,
+      "jumlahUlasan": 649,
+      "bahan": "kain kanvas",
+      "warna": "biru tua",
+      "kota": "Makassar",
+      "garansi": 12,
+      "gambar": "/img/produk-04.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Organizer Meja Premium 477 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "kain kanvas"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "52 x 29 x 46 cm"
+        ],
+        [
+          "Berat",
+          "22.7 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Makassar"
+        ],
+        [
+          "Kode produk",
+          "KP-0028"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-012",
+        "produk-047",
+        "produk-026",
+        "produk-003",
+        "produk-009",
+        "produk-040",
+        "produk-038",
+        "produk-021"
+      ]
+    },
+    {
+      "slug": "produk-029",
+      "nama": "Sepatu Lari Serbaguna 990",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 3657000,
+      "rating": 5,
+      "jumlahUlasan": 141,
+      "bahan": "kayu jati",
+      "warna": "putih",
+      "kota": "Semarang",
+      "garansi": 24,
+      "gambar": "/img/produk-05.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Sepatu Lari Serbaguna 990 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Semarang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "96 x 62 x 30 cm"
+        ],
+        [
+          "Berat",
+          "23.9 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Semarang"
+        ],
+        [
+          "Kode produk",
+          "KP-0029"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        }
+      ],
+      "terkait": [
+        "produk-005",
+        "produk-045",
+        "produk-050",
+        "produk-022",
+        "produk-009",
+        "produk-004",
+        "produk-039",
+        "produk-025"
+      ]
+    },
+    {
+      "slug": "produk-030",
+      "nama": "Penyiram Otomatis Serbaguna 119",
+      "kategori": "Peralatan Taman",
+      "harga": 4539000,
+      "rating": 4.2,
+      "jumlahUlasan": 438,
+      "bahan": "plastik ABS",
+      "warna": "hijau zaitun",
+      "kota": "Yogyakarta",
+      "garansi": 6,
+      "gambar": "/img/produk-06.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "85 x 80 x 69 cm"
+        ],
+        [
+          "Berat",
+          "3.9 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Yogyakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0030"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-032",
+        "produk-026",
+        "produk-036",
+        "produk-003",
+        "produk-010",
+        "produk-052",
+        "produk-029",
+        "produk-023"
+      ]
+    },
+    {
+      "slug": "produk-031",
+      "nama": "Meja Kerja Modern 843",
+      "kategori": "Perabot Kantor",
+      "harga": 3769000,
+      "rating": 4.2,
+      "jumlahUlasan": 85,
+      "bahan": "aluminium",
+      "warna": "biru tua",
+      "kota": "Medan",
+      "garansi": 12,
+      "gambar": "/img/produk-07.jpg",
+      "deskripsi": [
+        "Meja Kerja Modern 843 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Meja Kerja Modern 843 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "79 x 59 x 29 cm"
+        ],
+        [
+          "Berat",
+          "29.1 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0031"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-041",
+        "produk-024",
+        "produk-005",
+        "produk-003",
+        "produk-047",
+        "produk-017",
+        "produk-029",
+        "produk-050"
+      ]
+    },
+    {
+      "slug": "produk-032",
+      "nama": "Wajan Antilengket Premium 970",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 3650000,
+      "rating": 4.1,
+      "jumlahUlasan": 790,
+      "bahan": "aluminium",
+      "warna": "hitam",
+      "kota": "Yogyakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-08.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "147 x 83 x 91 cm"
+        ],
+        [
+          "Berat",
+          "29.3 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Yogyakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0032"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-001",
+        "produk-043",
+        "produk-031",
+        "produk-016",
+        "produk-005",
+        "produk-018",
+        "produk-060",
+        "produk-055"
+      ]
+    },
+    {
+      "slug": "produk-033",
+      "nama": "Lampu Meja Eco 880",
+      "kategori": "Elektronik Rumah",
+      "harga": 4470000,
+      "rating": 4.4,
+      "jumlahUlasan": 62,
+      "bahan": "plastik ABS",
+      "warna": "krem",
+      "kota": "Makassar",
+      "garansi": 24,
+      "gambar": "/img/produk-09.jpg",
+      "deskripsi": [
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Lampu Meja Eco 880 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Lampu Meja Eco 880 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat.",
+        "Lampu Meja Eco 880 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "78 x 72 x 81 cm"
+        ],
+        [
+          "Berat",
+          "28.8 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Makassar"
+        ],
+        [
+          "Kode produk",
+          "KP-0033"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-059",
+        "produk-024",
+        "produk-018",
+        "produk-019",
+        "produk-055",
+        "produk-043",
+        "produk-039",
+        "produk-023"
+      ]
+    },
+    {
+      "slug": "produk-034",
+      "nama": "Map Plastik Eco 107",
+      "kategori": "Alat Tulis",
+      "harga": 1968000,
+      "rating": 3.9,
+      "jumlahUlasan": 555,
+      "bahan": "kaca tempered",
+      "warna": "krem",
+      "kota": "Bandung",
+      "garansi": 24,
+      "gambar": "/img/produk-10.jpg",
+      "deskripsi": [
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Map Plastik Eco 107 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian.",
+        "Map Plastik Eco 107 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "44 x 48 x 43 cm"
+        ],
+        [
+          "Berat",
+          "11.4 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0034"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-014",
+        "produk-025",
+        "produk-028",
+        "produk-022",
+        "produk-053",
+        "produk-033",
+        "produk-010",
+        "produk-060"
+      ]
+    },
+    {
+      "slug": "produk-035",
+      "nama": "Matras Yoga Lipat 233",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 4476000,
+      "rating": 4.1,
+      "jumlahUlasan": 14,
+      "bahan": "baja ringan",
+      "warna": "cokelat",
+      "kota": "Makassar",
+      "garansi": 12,
+      "gambar": "/img/produk-11.jpg",
+      "deskripsi": [
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "baja ringan"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "140 x 51 x 112 cm"
+        ],
+        [
+          "Berat",
+          "0.7 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Makassar"
+        ],
+        [
+          "Kode produk",
+          "KP-0035"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Lukas",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-046",
+        "produk-047",
+        "produk-058",
+        "produk-012",
+        "produk-042",
+        "produk-018",
+        "produk-057",
+        "produk-036"
+      ]
+    },
+    {
+      "slug": "produk-036",
+      "nama": "Selang Air Eco 364",
+      "kategori": "Peralatan Taman",
+      "harga": 3092000,
+      "rating": 3.9,
+      "jumlahUlasan": 571,
+      "bahan": "kaca tempered",
+      "warna": "hijau zaitun",
+      "kota": "Semarang",
+      "garansi": 24,
+      "gambar": "/img/produk-12.jpg",
+      "deskripsi": [
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Semarang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "35 x 50 x 88 cm"
+        ],
+        [
+          "Berat",
+          "18.8 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Semarang"
+        ],
+        [
+          "Kode produk",
+          "KP-0036"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-060",
+        "produk-044",
+        "produk-007",
+        "produk-058",
+        "produk-057",
+        "produk-046",
+        "produk-047",
+        "produk-014"
+      ]
+    },
+    {
+      "slug": "produk-037",
+      "nama": "Meja Kerja Lipat 674",
+      "kategori": "Perabot Kantor",
+      "harga": 4105000,
+      "rating": 4.8,
+      "jumlahUlasan": 215,
+      "bahan": "plastik ABS",
+      "warna": "hijau zaitun",
+      "kota": "Medan",
+      "garansi": 6,
+      "gambar": "/img/produk-01.jpg",
+      "deskripsi": [
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Medan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Medan.",
+        "Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "52 x 90 x 99 cm"
+        ],
+        [
+          "Berat",
+          "19.0 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Medan"
+        ],
+        [
+          "Kode produk",
+          "KP-0037"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-030",
+        "produk-017",
+        "produk-026",
+        "produk-057",
+        "produk-032",
+        "produk-033",
+        "produk-020",
+        "produk-013"
+      ]
+    },
+    {
+      "slug": "produk-038",
+      "nama": "Wajan Antilengket Ringkas 884",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 1030000,
+      "rating": 4.7,
+      "jumlahUlasan": 103,
+      "bahan": "kaca tempered",
+      "warna": "krem",
+      "kota": "Jakarta",
+      "garansi": 24,
+      "gambar": "/img/produk-02.jpg",
+      "deskripsi": [
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian.",
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "135 x 48 x 104 cm"
+        ],
+        [
+          "Berat",
+          "27.3 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0038"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-024",
+        "produk-044",
+        "produk-050",
+        "produk-056",
+        "produk-023",
+        "produk-032",
+        "produk-059",
+        "produk-002"
+      ]
+    },
+    {
+      "slug": "produk-039",
+      "nama": "Penanak Nasi Premium 532",
+      "kategori": "Elektronik Rumah",
+      "harga": 2778000,
+      "rating": 3.7,
+      "jumlahUlasan": 722,
+      "bahan": "aluminium",
+      "warna": "putih",
+      "kota": "Bandung",
+      "garansi": 24,
+      "gambar": "/img/produk-03.jpg",
+      "deskripsi": [
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "63 x 26 x 87 cm"
+        ],
+        [
+          "Berat",
+          "4.0 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0039"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-010",
+        "produk-048",
+        "produk-042",
+        "produk-014",
+        "produk-050",
+        "produk-030",
+        "produk-056",
+        "produk-038"
+      ]
+    },
+    {
+      "slug": "produk-040",
+      "nama": "Buku Catatan Pro 289",
+      "kategori": "Alat Tulis",
+      "harga": 2425000,
+      "rating": 3.7,
+      "jumlahUlasan": 137,
+      "bahan": "plastik ABS",
+      "warna": "hijau zaitun",
+      "kota": "Bandung",
+      "garansi": 6,
+      "gambar": "/img/produk-04.jpg",
+      "deskripsi": [
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Buku Catatan Pro 289 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "100 x 81 x 116 cm"
+        ],
+        [
+          "Berat",
+          "28.3 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0040"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-044",
+        "produk-032",
+        "produk-045",
+        "produk-036",
+        "produk-008",
+        "produk-007",
+        "produk-005",
+        "produk-022"
+      ]
+    },
+    {
+      "slug": "produk-041",
+      "nama": "Sepatu Lari Premium 763",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 2259000,
+      "rating": 3.7,
+      "jumlahUlasan": 253,
+      "bahan": "kaca tempered",
+      "warna": "putih",
+      "kota": "Bandung",
+      "garansi": 6,
+      "gambar": "/img/produk-05.jpg",
+      "deskripsi": [
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Sepatu Lari Premium 763 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "83 x 80 x 38 cm"
+        ],
+        [
+          "Berat",
+          "14.9 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0041"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-026",
+        "produk-008",
+        "produk-044",
+        "produk-045",
+        "produk-002",
+        "produk-018",
+        "produk-053",
+        "produk-009"
+      ]
+    },
+    {
+      "slug": "produk-042",
+      "nama": "Selang Air Lipat 246",
+      "kategori": "Peralatan Taman",
+      "harga": 3218000,
+      "rating": 3.8,
+      "jumlahUlasan": 122,
+      "bahan": "kaca tempered",
+      "warna": "krem",
+      "kota": "Jakarta",
+      "garansi": 6,
+      "gambar": "/img/produk-06.jpg",
+      "deskripsi": [
+        "Selang Air Lipat 246 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Selang Air Lipat 246 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "117 x 23 x 14 cm"
+        ],
+        [
+          "Berat",
+          "19.6 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0042"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-060",
+        "produk-034",
+        "produk-021",
+        "produk-045",
+        "produk-023",
+        "produk-016",
+        "produk-009",
+        "produk-020"
+      ]
+    },
+    {
+      "slug": "produk-043",
+      "nama": "Lemari Dokumen Eco 388",
+      "kategori": "Perabot Kantor",
+      "harga": 4733000,
+      "rating": 4.6,
+      "jumlahUlasan": 182,
+      "bahan": "kain kanvas",
+      "warna": "krem",
+      "kota": "Semarang",
+      "garansi": 12,
+      "gambar": "/img/produk-07.jpg",
+      "deskripsi": [
+        "Produk ini hadir dalam warna krem sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Semarang.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Lemari Dokumen Eco 388 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "kain kanvas"
+        ],
+        [
+          "Warna",
+          "krem"
+        ],
+        [
+          "Dimensi",
+          "138 x 31 x 40 cm"
+        ],
+        [
+          "Berat",
+          "0.4 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Semarang"
+        ],
+        [
+          "Kode produk",
+          "KP-0043"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-002",
+        "produk-024",
+        "produk-004",
+        "produk-025",
+        "produk-008",
+        "produk-031",
+        "produk-050",
+        "produk-013"
+      ]
+    },
+    {
+      "slug": "produk-044",
+      "nama": "Wajan Antilengket Klasik 122",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 3562000,
+      "rating": 4.1,
+      "jumlahUlasan": 643,
+      "bahan": "aluminium",
+      "warna": "abu-abu",
+      "kota": "Surabaya",
+      "garansi": 12,
+      "gambar": "/img/produk-08.jpg",
+      "deskripsi": [
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Wajan Antilengket Klasik 122 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Wajan Antilengket Klasik 122 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "abu-abu"
+        ],
+        [
+          "Dimensi",
+          "39 x 50 x 13 cm"
+        ],
+        [
+          "Berat",
+          "29.0 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0044"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-052",
+        "produk-021",
+        "produk-054",
+        "produk-010",
+        "produk-045",
+        "produk-029",
+        "produk-007",
+        "produk-009"
+      ]
+    },
+    {
+      "slug": "produk-045",
+      "nama": "Lampu Meja Eco 263",
+      "kategori": "Elektronik Rumah",
+      "harga": 2297000,
+      "rating": 3.5,
+      "jumlahUlasan": 687,
+      "bahan": "baja ringan",
+      "warna": "hitam",
+      "kota": "Tangerang",
+      "garansi": 6,
+      "gambar": "/img/produk-09.jpg",
+      "deskripsi": [
+        "Lampu Meja Eco 263 dirancang untuk penggunaan sehari-hari dengan bahan baja ringan yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "baja ringan"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "150 x 28 x 63 cm"
+        ],
+        [
+          "Berat",
+          "10.4 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Tangerang"
+        ],
+        [
+          "Kode produk",
+          "KP-0045"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-051",
+        "produk-059",
+        "produk-048",
+        "produk-025",
+        "produk-038",
+        "produk-007",
+        "produk-052",
+        "produk-033"
+      ]
+    },
+    {
+      "slug": "produk-046",
+      "nama": "Organizer Meja Eco 163",
+      "kategori": "Alat Tulis",
+      "harga": 713000,
+      "rating": 3.8,
+      "jumlahUlasan": 246,
+      "bahan": "plastik ABS",
+      "warna": "biru tua",
+      "kota": "Bandung",
+      "garansi": 12,
+      "gambar": "/img/produk-10.jpg",
+      "deskripsi": [
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Bandung."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "129 x 80 x 50 cm"
+        ],
+        [
+          "Berat",
+          "5.3 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0046"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        }
+      ],
+      "terkait": [
+        "produk-058",
+        "produk-024",
+        "produk-039",
+        "produk-019",
+        "produk-056",
+        "produk-053",
+        "produk-021",
+        "produk-026"
+      ]
+    },
+    {
+      "slug": "produk-047",
+      "nama": "Sepatu Lari Ringkas 923",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 2528000,
+      "rating": 3.7,
+      "jumlahUlasan": 596,
+      "bahan": "bambu",
+      "warna": "cokelat",
+      "kota": "Yogyakarta",
+      "garansi": 6,
+      "gambar": "/img/produk-11.jpg",
+      "deskripsi": [
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Yogyakarta. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "bambu"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "100 x 32 x 114 cm"
+        ],
+        [
+          "Berat",
+          "11.1 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Yogyakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0047"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Indah",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-008",
+        "produk-015",
+        "produk-011",
+        "produk-007",
+        "produk-027",
+        "produk-033",
+        "produk-006",
+        "produk-030"
+      ]
+    },
+    {
+      "slug": "produk-048",
+      "nama": "Gunting Dahan Serbaguna 849",
+      "kategori": "Peralatan Taman",
+      "harga": 1888000,
+      "rating": 4.4,
+      "jumlahUlasan": 740,
+      "bahan": "baja ringan",
+      "warna": "biru tua",
+      "kota": "Jakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-12.jpg",
+      "deskripsi": [
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "baja ringan"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "44 x 63 x 55 cm"
+        ],
+        [
+          "Berat",
+          "18.7 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0048"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        }
+      ],
+      "terkait": [
+        "produk-035",
+        "produk-026",
+        "produk-017",
+        "produk-040",
+        "produk-060",
+        "produk-047",
+        "produk-014",
+        "produk-011"
+      ]
+    },
+    {
+      "slug": "produk-049",
+      "nama": "Meja Kerja Lipat 909",
+      "kategori": "Perabot Kantor",
+      "harga": 4548000,
+      "rating": 4.6,
+      "jumlahUlasan": 321,
+      "bahan": "baja ringan",
+      "warna": "cokelat",
+      "kota": "Jakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-01.jpg",
+      "deskripsi": [
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Meja Kerja Lipat 909 dirancang untuk penggunaan sehari-hari dengan bahan baja ringan yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Meja Kerja Lipat 909 dirancang untuk penggunaan sehari-hari dengan bahan baja ringan yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "baja ringan"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "150 x 45 x 64 cm"
+        ],
+        [
+          "Berat",
+          "22.4 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0049"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-050",
+        "produk-010",
+        "produk-031",
+        "produk-011",
+        "produk-017",
+        "produk-032",
+        "produk-053",
+        "produk-037"
+      ]
+    },
+    {
+      "slug": "produk-050",
+      "nama": "Panci Presto Eco 842",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 4737000,
+      "rating": 3.9,
+      "jumlahUlasan": 408,
+      "bahan": "baja ringan",
+      "warna": "hijau zaitun",
+      "kota": "Jakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-02.jpg",
+      "deskripsi": [
+        "Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Panci Presto Eco 842 dirancang untuk penggunaan sehari-hari dengan bahan baja ringan yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Panci Presto Eco 842 dirancang untuk penggunaan sehari-hari dengan bahan baja ringan yang kokoh dan mudah dirawat.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Produk ini hadir dalam warna hijau zaitun sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 12 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "baja ringan"
+        ],
+        [
+          "Warna",
+          "hijau zaitun"
+        ],
+        [
+          "Dimensi",
+          "52 x 65 x 53 cm"
+        ],
+        [
+          "Berat",
+          "10.6 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0050"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        }
+      ],
+      "terkait": [
+        "produk-055",
+        "produk-009",
+        "produk-001",
+        "produk-051",
+        "produk-036",
+        "produk-034",
+        "produk-053",
+        "produk-027"
+      ]
+    },
+    {
+      "slug": "produk-051",
+      "nama": "Pemurni Udara Premium 773",
+      "kategori": "Elektronik Rumah",
+      "harga": 3005000,
+      "rating": 3.8,
+      "jumlahUlasan": 305,
+      "bahan": "plastik ABS",
+      "warna": "hitam",
+      "kota": "Tangerang",
+      "garansi": 24,
+      "gambar": "/img/produk-03.jpg",
+      "deskripsi": [
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang. Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda.",
+        "Produk ini hadir dalam warna hitam sehingga mudah dipadukan dengan berbagai gaya ruangan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Pemurni Udara Premium 773 dirancang untuk penggunaan sehari-hari dengan bahan plastik ABS yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "plastik ABS"
+        ],
+        [
+          "Warna",
+          "hitam"
+        ],
+        [
+          "Dimensi",
+          "115 x 22 x 50 cm"
+        ],
+        [
+          "Berat",
+          "20.2 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Tangerang"
+        ],
+        [
+          "Kode produk",
+          "KP-0051"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 3,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        }
+      ],
+      "terkait": [
+        "produk-054",
+        "produk-029",
+        "produk-022",
+        "produk-045",
+        "produk-005",
+        "produk-058",
+        "produk-034",
+        "produk-009"
+      ]
+    },
+    {
+      "slug": "produk-052",
+      "nama": "Pena Gel Modern 314",
+      "kategori": "Alat Tulis",
+      "harga": 1892000,
+      "rating": 3.8,
+      "jumlahUlasan": 299,
+      "bahan": "kayu jati",
+      "warna": "cokelat",
+      "kota": "Tangerang",
+      "garansi": 6,
+      "gambar": "/img/produk-04.jpg",
+      "deskripsi": [
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Pena Gel Modern 314 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian.",
+        "Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "124 x 25 x 54 cm"
+        ],
+        [
+          "Berat",
+          "18.9 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Tangerang"
+        ],
+        [
+          "Kode produk",
+          "KP-0052"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Eka",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 3,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        }
+      ],
+      "terkait": [
+        "produk-033",
+        "produk-059",
+        "produk-015",
+        "produk-001",
+        "produk-028",
+        "produk-044",
+        "produk-018",
+        "produk-060"
+      ]
+    },
+    {
+      "slug": "produk-053",
+      "nama": "Sepatu Lari Serbaguna 371",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 2964000,
+      "rating": 4.7,
+      "jumlahUlasan": 855,
+      "bahan": "aluminium",
+      "warna": "biru tua",
+      "kota": "Surabaya",
+      "garansi": 24,
+      "gambar": "/img/produk-05.jpg",
+      "deskripsi": [
+        "Sepatu Lari Serbaguna 371 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "63 x 74 x 33 cm"
+        ],
+        [
+          "Berat",
+          "9.4 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0053"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-059",
+        "produk-054",
+        "produk-020",
+        "produk-024",
+        "produk-031",
+        "produk-044",
+        "produk-004",
+        "produk-012"
+      ]
+    },
+    {
+      "slug": "produk-054",
+      "nama": "Pot Tanaman Eco 160",
+      "kategori": "Peralatan Taman",
+      "harga": 3477000,
+      "rating": 3.9,
+      "jumlahUlasan": 714,
+      "bahan": "kayu jati",
+      "warna": "putih",
+      "kota": "Surabaya",
+      "garansi": 24,
+      "gambar": "/img/produk-06.jpg",
+      "deskripsi": [
+        "Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna putih sehingga mudah dipadukan dengan berbagai gaya ruangan. Pot Tanaman Eco 160 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Surabaya."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "putih"
+        ],
+        [
+          "Dimensi",
+          "146 x 47 x 39 cm"
+        ],
+        [
+          "Berat",
+          "14.0 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Surabaya"
+        ],
+        [
+          "Kode produk",
+          "KP-0054"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Bunga",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 3,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-026",
+        "produk-023",
+        "produk-033",
+        "produk-044",
+        "produk-010",
+        "produk-036",
+        "produk-013",
+        "produk-038"
+      ]
+    },
+    {
+      "slug": "produk-055",
+      "nama": "Kursi Ergonomis Serbaguna 274",
+      "kategori": "Perabot Kantor",
+      "harga": 277000,
+      "rating": 4.8,
+      "jumlahUlasan": 245,
+      "bahan": "kaca tempered",
+      "warna": "biru tua",
+      "kota": "Semarang",
+      "garansi": 24,
+      "gambar": "/img/produk-07.jpg",
+      "deskripsi": [
+        "Kursi Ergonomis Serbaguna 274 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Kursi Ergonomis Serbaguna 274 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perabot Kantor"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "145 x 87 x 69 cm"
+        ],
+        [
+          "Berat",
+          "3.1 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Semarang"
+        ],
+        [
+          "Kode produk",
+          "KP-0055"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Citra",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-029",
+        "produk-045",
+        "produk-024",
+        "produk-031",
+        "produk-010",
+        "produk-058",
+        "produk-041",
+        "produk-019"
+      ]
+    },
+    {
+      "slug": "produk-056",
+      "nama": "Panci Presto Ringkas 943",
+      "kategori": "Perlengkapan Dapur",
+      "harga": 1552000,
+      "rating": 3.9,
+      "jumlahUlasan": 786,
+      "bahan": "baja ringan",
+      "warna": "abu-abu",
+      "kota": "Bandung",
+      "garansi": 24,
+      "gambar": "/img/produk-08.jpg",
+      "deskripsi": [
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian.",
+        "Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Garansi resmi berlaku selama 24 bulan sejak tanggal pembelian. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Dapur"
+        ],
+        [
+          "Bahan utama",
+          "baja ringan"
+        ],
+        [
+          "Warna",
+          "abu-abu"
+        ],
+        [
+          "Dimensi",
+          "57 x 75 x 51 cm"
+        ],
+        [
+          "Berat",
+          "20.2 kg"
+        ],
+        [
+          "Garansi",
+          "24 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Bandung"
+        ],
+        [
+          "Kode produk",
+          "KP-0056"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Hendra",
+          "bintang": 3,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Dimas",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        }
+      ],
+      "terkait": [
+        "produk-037",
+        "produk-010",
+        "produk-046",
+        "produk-054",
+        "produk-022",
+        "produk-013",
+        "produk-035",
+        "produk-003"
+      ]
+    },
+    {
+      "slug": "produk-057",
+      "nama": "Pemurni Udara Lipat 325",
+      "kategori": "Elektronik Rumah",
+      "harga": 4104000,
+      "rating": 3.5,
+      "jumlahUlasan": 96,
+      "bahan": "kain kanvas",
+      "warna": "abu-abu",
+      "kota": "Tangerang",
+      "garansi": 6,
+      "gambar": "/img/produk-09.jpg",
+      "deskripsi": [
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan. Pemurni Udara Lipat 325 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Pemurni Udara Lipat 325 dirancang untuk penggunaan sehari-hari dengan bahan kain kanvas yang kokoh dan mudah dirawat. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Tangerang. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Produk ini hadir dalam warna abu-abu sehingga mudah dipadukan dengan berbagai gaya ruangan."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Elektronik Rumah"
+        ],
+        [
+          "Bahan utama",
+          "kain kanvas"
+        ],
+        [
+          "Warna",
+          "abu-abu"
+        ],
+        [
+          "Dimensi",
+          "25 x 25 x 31 cm"
+        ],
+        [
+          "Berat",
+          "29.8 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Tangerang"
+        ],
+        [
+          "Kode produk",
+          "KP-0057"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 4,
+          "isi": "Bahannya terasa kokoh, sepadan dengan harganya."
+        },
+        {
+          "nama": "Joko",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        }
+      ],
+      "terkait": [
+        "produk-038",
+        "produk-035",
+        "produk-056",
+        "produk-002",
+        "produk-048",
+        "produk-051",
+        "produk-019",
+        "produk-060"
+      ]
+    },
+    {
+      "slug": "produk-058",
+      "nama": "Pena Gel Lipat 931",
+      "kategori": "Alat Tulis",
+      "harga": 4538000,
+      "rating": 4.1,
+      "jumlahUlasan": 48,
+      "bahan": "kayu jati",
+      "warna": "biru tua",
+      "kota": "Jakarta",
+      "garansi": 12,
+      "gambar": "/img/produk-10.jpg",
+      "deskripsi": [
+        "Pena Gel Lipat 931 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus.",
+        "Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Setiap unit melewati pemeriksaan kualitas sebelum dikirim dari gudang kami di Jakarta. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Pena Gel Lipat 931 dirancang untuk penggunaan sehari-hari dengan bahan kayu jati yang kokoh dan mudah dirawat. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Alat Tulis"
+        ],
+        [
+          "Bahan utama",
+          "kayu jati"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "84 x 61 x 15 cm"
+        ],
+        [
+          "Berat",
+          "21.4 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Jakarta"
+        ],
+        [
+          "Kode produk",
+          "KP-0058"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 4,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Eka",
+          "bintang": 5,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        }
+      ],
+      "terkait": [
+        "produk-029",
+        "produk-047",
+        "produk-049",
+        "produk-010",
+        "produk-026",
+        "produk-011",
+        "produk-023",
+        "produk-013"
+      ]
+    },
+    {
+      "slug": "produk-059",
+      "nama": "Tali Skipping Eco 463",
+      "kategori": "Perlengkapan Olahraga",
+      "harga": 3361000,
+      "rating": 4.1,
+      "jumlahUlasan": 747,
+      "bahan": "aluminium",
+      "warna": "cokelat",
+      "kota": "Makassar",
+      "garansi": 6,
+      "gambar": "/img/produk-11.jpg",
+      "deskripsi": [
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha. Produk ini hadir dalam warna cokelat sehingga mudah dipadukan dengan berbagai gaya ruangan. Desainnya mengutamakan kenyamanan, keamanan, dan efisiensi ruang tanpa mengorbankan tampilan.",
+        "Kemasan menggunakan bahan daur ulang untuk mengurangi limbah pengiriman. Garansi resmi berlaku selama 6 bulan sejak tanggal pembelian. Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Tali Skipping Eco 463 dirancang untuk penggunaan sehari-hari dengan bahan aluminium yang kokoh dan mudah dirawat."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Perlengkapan Olahraga"
+        ],
+        [
+          "Bahan utama",
+          "aluminium"
+        ],
+        [
+          "Warna",
+          "cokelat"
+        ],
+        [
+          "Dimensi",
+          "29 x 25 x 68 cm"
+        ],
+        [
+          "Berat",
+          "26.0 kg"
+        ],
+        [
+          "Garansi",
+          "6 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Makassar"
+        ],
+        [
+          "Kode produk",
+          "KP-0059"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Lukas",
+          "bintang": 4,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Kirana",
+          "bintang": 5,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Andi",
+          "bintang": 4,
+          "isi": "Ukurannya pas untuk ruangan saya yang tidak terlalu besar."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 5,
+          "isi": "Sudah dipakai dua bulan dan masih seperti baru."
+        }
+      ],
+      "terkait": [
+        "produk-007",
+        "produk-051",
+        "produk-022",
+        "produk-056",
+        "produk-004",
+        "produk-018",
+        "produk-017",
+        "produk-060"
+      ]
+    },
+    {
+      "slug": "produk-060",
+      "nama": "Selang Air Plus 620",
+      "kategori": "Peralatan Taman",
+      "harga": 3926000,
+      "rating": 3.8,
+      "jumlahUlasan": 586,
+      "bahan": "kaca tempered",
+      "warna": "biru tua",
+      "kota": "Makassar",
+      "garansi": 12,
+      "gambar": "/img/produk-12.jpg",
+      "deskripsi": [
+        "Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Selang Air Plus 620 dirancang untuk penggunaan sehari-hari dengan bahan kaca tempered yang kokoh dan mudah dirawat. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Petunjuk perakitan disertakan dan dapat diikuti tanpa alat khusus. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha.",
+        "Produk ini hadir dalam warna biru tua sehingga mudah dipadukan dengan berbagai gaya ruangan. Permukaannya diberi lapisan pelindung agar tahan terhadap goresan ringan dan noda. Komponen pengganti tersedia sehingga masa pakai produk dapat diperpanjang. Cocok digunakan di rumah, kantor kecil, maupun ruang usaha."
+      ],
+      "spesifikasi": [
+        [
+          "Kategori",
+          "Peralatan Taman"
+        ],
+        [
+          "Bahan utama",
+          "kaca tempered"
+        ],
+        [
+          "Warna",
+          "biru tua"
+        ],
+        [
+          "Dimensi",
+          "30 x 27 x 63 cm"
+        ],
+        [
+          "Berat",
+          "5.8 kg"
+        ],
+        [
+          "Garansi",
+          "12 bulan"
+        ],
+        [
+          "Asal pengiriman",
+          "Makassar"
+        ],
+        [
+          "Kode produk",
+          "KP-0060"
+        ]
+      ],
+      "ulasan": [
+        {
+          "nama": "Lukas",
+          "bintang": 5,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        },
+        {
+          "nama": "Fajar",
+          "bintang": 5,
+          "isi": "Kualitasnya sesuai deskripsi dan pengiriman cepat."
+        },
+        {
+          "nama": "Hendra",
+          "bintang": 5,
+          "isi": "Warnanya sedikit berbeda dari foto, tetapi tetap bagus."
+        },
+        {
+          "nama": "Indah",
+          "bintang": 4,
+          "isi": "Pelayanan penjual ramah dan responsif."
+        },
+        {
+          "nama": "Bunga",
+          "bintang": 3,
+          "isi": "Mudah dirakit dan petunjuknya jelas."
+        },
+        {
+          "nama": "Gita",
+          "bintang": 3,
+          "isi": "Akan membeli lagi untuk kebutuhan kantor."
+        }
+      ],
+      "terkait": [
+        "produk-031",
+        "produk-047",
+        "produk-021",
+        "produk-024",
+        "produk-051",
+        "produk-017",
+        "produk-042",
+        "produk-036"
+      ]
+    }
+  ]
+}

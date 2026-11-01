@@ -1,0 +1,30 @@
+{
+  "name": "skripsi-ssr-ssg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplikasi uji untuk membandingkan SSR dan SSG pada Next.js App Router (skripsi Informatika UMN).",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "data": "node scripts/generate-data.mjs && python scripts/generate-images.py",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "setup:experiment": "npm --prefix experiment install",
+    "equivalence": "node experiment/check-equivalence.mjs",
+    "audit": "node experiment/run-audits.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "5.9.3"
+  }
+}
