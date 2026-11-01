@@ -20,11 +20,13 @@ export async function ambilProbe(url) {
       status: respons.status,
       cacheControl: respons.headers.get('cache-control') ?? '',
       xVercelCache: respons.headers.get('x-vercel-cache') ?? '',
+      // Format "edge::region-fungsi::id" untuk route dinamis; membuktikan region eksekusi.
+      xVercelId: respons.headers.get('x-vercel-id') ?? '',
       waktuRender: html.match(/data-rendered-at="([^"]+)"/)?.[1] ?? '',
       instans: html.match(/data-instance="([^"]+)"/)?.[1] ?? '',
     };
   } catch {
-    return { status: 0, cacheControl: '', xVercelCache: '', waktuRender: '', instans: '' };
+    return { status: 0, cacheControl: '', xVercelCache: '', xVercelId: '', waktuRender: '', instans: '' };
   }
 }
 
@@ -79,7 +81,7 @@ export const KOLOM_CSV = [
   'statusDokumen', 'protokolDokumen', 'jumlahRequest', 'totalByte', 'elemenLcp',
   'benchmarkIndex', 'versiLighthouse', 'versiChrome', 'waktuAudit',
   'metodeThrottling', 'cpuSlowdown', 'requestLatencyMs', 'downloadKbps', 'uploadKbps', 'runtimeError',
-  'cacheControl', 'xVercelCache', 'probeSebelum', 'probeSesudah', 'instansSebelum', 'instansSesudah',
+  'cacheControl', 'xVercelCache', 'xVercelId', 'probeSebelum', 'probeSesudah', 'instansSebelum', 'instansSesudah',
   'seed', 'alasanEksklusi', 'pasanganValid', 'berkasLhr',
 ];
 

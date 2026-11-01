@@ -239,6 +239,52 @@ def rencana(lebar, delta, folder, tingkat_ucl=0.80, simulasi=4000, seed=20261102
         n += 2
         daya = daya_simulasi(n)
     hasil.update({"n_dari_rumus_dan_are": n_rencana, "n_akhir_setelah_simulasi": n, "daya_simulasi_terendah": daya})
+
+    # Presisi untuk kesimpulan "dapat diabaikan": interval simultan harus berada di dalam
+    # (-delta, delta). Selisih sebenarnya diasumsikan delta/2 (bukan estimasi pilot),
+    # sehingga hanya varians pilot yang dipakai.
+    delta_asumsi = delta / 2
+    n_ekuiv = 0
+    for m in METRIK:
+        n_m_ekuiv = math.ceil((z * hasil["metrik"][m]["ucl_sd"] / (delta - delta_asumsi)) ** 2)
+        hasil["metrik"][m]["n_m_ekuivalensi"] = n_m_ekuiv
+        n_ekuiv = max(n_ekuiv, n_m_ekuiv)
+    n_ekuiv = math.ceil(n_ekuiv / ARE_MIN_WILCOXON)
+
+    def peluang_ekuivalensi(n):
+        terendah = 1.0
+        for m in METRIK:
+            d = (lebar[f"{m}_SSR"] - lebar[f"{m}_SSG"]).to_numpy()
+            residu = (d - d.mean()) / (d.std(ddof=1) or 1) * hasil["metrik"][m]["ucl_sd"]
+            berhasil = 0
+            for _ in range(simulasi // 4):
+                sampel = acak.choice(residu, size=n, replace=True) + delta_asumsi
+                uji, _ = pilih_uji(sampel)
+                if uji == "t":
+                    bawah, atas = selang_t(sampel, 1 - ALPHA_BINTANG)
+                else:
+                    bawah, atas = selang_hodges_lehmann(sampel, 1 - ALPHA_BINTANG)
+                berhasil += (not math.isnan(bawah)) and bawah > -delta and atas < delta
+            terendah = min(terendah, berhasil / (simulasi // 4))
+        return terendah
+
+    n_e = n_ekuiv
+    peluang = peluang_ekuivalensi(n_e)
+    while peluang < DAYA and n_e < 500:
+        n_e += 2
+        peluang = peluang_ekuivalensi(n_e)
+
+    jumlah_sesi = 3
+    n_final = max(n, n_e)
+    n_final = math.ceil(n_final / jumlah_sesi) * jumlah_sesi
+    hasil.update({
+        "selisih_asumsi_ekuivalensi_ms": delta_asumsi,
+        "n_ekuivalensi_rumus_dan_are": n_ekuiv,
+        "n_ekuivalensi_setelah_simulasi": n_e,
+        "peluang_ekuivalensi_simulasi_terendah": peluang,
+        "n_final": n_final,
+        "pasangan_per_sesi": n_final // jumlah_sesi,
+    })
     return hasil
 
 

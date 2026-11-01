@@ -85,6 +85,10 @@ await writeFile(
 );
 
 async function audit(url) {
+  // Mode tamu Chrome (--guest) tidak dapat dipakai: profil tamu menolak pembuatan tab
+  // melalui DevTools Protocol ("Target.createTarget: Failed to open a new tab"), baik
+  // headless maupun tidak. chrome-launcher membuat profil sementara baru yang kosong
+  // untuk setiap audit (tanpa riwayat, cookie, cache, maupun ekstensi), lalu menghapusnya.
   const chrome = await ChromeLauncher.launch({ chromeFlags: ['--headless=new', '--no-first-run'] });
   try {
     const hasil = await lighthouse(url, {
@@ -172,6 +176,7 @@ while (pasanganValid < TARGET_PASANGAN && blok < MAKS_BLOK) {
       ...metrik,
       cacheControl: sebelum[kondisi].cacheControl,
       xVercelCache: sebelum[kondisi].xVercelCache,
+      xVercelId: sebelum[kondisi].xVercelId,
       probeSebelum: sebelum[kondisi].waktuRender,
       probeSesudah: sesudah[kondisi].waktuRender,
       instansSebelum: sebelum[kondisi].instans,

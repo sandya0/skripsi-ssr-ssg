@@ -1,0 +1,37 @@
+{
+  "delta_ms": 100.0,
+  "tingkat_ucl_sd": 0.8,
+  "metrik": {
+    "ttfb": {
+      "n_pilot": 12,
+      "sd_selisih": 37.073636798330774,
+      "ucl_sd": 46.51190821939766,
+      "n_m": 3,
+      "n_m_ekuivalensi": 10
+    },
+    "fcp": {
+      "n_pilot": 12,
+      "sd_selisih": 57.733452305847045,
+      "ucl_sd": 72.43133576146579,
+      "n_m": 6,
+      "n_m_ekuivalensi": 22
+    },
+    "lcp": {
+      "n_pilot": 12,
+      "sd_selisih": 70.67483157519244,
+      "ucl_sd": 88.6673540426642,
+      "n_m": 9,
+      "n_m_ekuivalensi": 33
+    }
+  },
+  "n_dari_rumus_dan_are": 11,
+  "n_akhir_setelah_simulasi": 13,
+  "daya_simulasi_terendah": 0.889,
+  "selisih_asumsi_ekuivalensi_ms": 50.0,
+  "n_ekuivalensi_rumus_dan_are": 39,
+  "n_ekuivalensi_setelah_simulasi": 39,
+  "peluang_ekuivalensi_simulasi_terendah": 0.814,
+  "n_final": 39,
+  "pasangan_per_sesi": 13,
+  "jumlah_pasangan_dianalisis": 12
+}

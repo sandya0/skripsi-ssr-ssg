@@ -93,21 +93,29 @@ async function bacaLhr(berkas) {
   const isi = await readFile(berkas);
   return JSON.parse((berkas.endsWith('.gz') ? gunzipSync(isi) : isi).toString('utf8'));
 }
-function daftarRequest(lhr) {
-  return (lhr.audits?.['network-requests']?.details?.items ?? [])
-    .map((r) => `${r.resourceType} ${r.url.replace(/\/ss[rg]\//, '/ssX/')} ${r.transferSize}`)
-    .sort();
+// Request dicocokkan berdasarkan jenis dan URL; byte transfer dibandingkan terpisah karena
+// ukuran header (mis. Age, x-vercel-id) membuat selisih beberapa byte pada berkas yang sama.
+function petaRequest(lhr) {
+  return new Map(
+    (lhr.audits?.['network-requests']?.details?.items ?? []).map((r) => [
+      `${r.resourceType} ${r.url.replace(/\/ss[rg]\//, '/ssX/')}`,
+      r.transferSize,
+    ]),
+  );
 }
 if (argumen['lhr-ssr'] && argumen['lhr-ssg']) {
   const lhr = { ssr: await bacaLhr(argumen['lhr-ssr']), ssg: await bacaLhr(argumen['lhr-ssg']) };
   const m = { ssr: ekstrakMetrik(lhr.ssr), ssg: ekstrakMetrik(lhr.ssg) };
-  const req = { ssr: daftarRequest(lhr.ssr), ssg: daftarRequest(lhr.ssg) };
+  const req = { ssr: petaRequest(lhr.ssr), ssg: petaRequest(lhr.ssg) };
   laporan.jaringan = {
     jumlahRequest: { ssr: m.ssr.jumlahRequest, ssg: m.ssg.jumlahRequest },
     totalByte: { ssr: m.ssr.totalByte, ssg: m.ssg.totalByte },
     elemenLcp: { ssr: m.ssr.elemenLcp, ssg: m.ssg.elemenLcp, sama: m.ssr.elemenLcp === m.ssg.elemenLcp },
-    requestHanyaSsr: req.ssr.filter((r) => !req.ssg.includes(r)),
-    requestHanyaSsg: req.ssg.filter((r) => !req.ssr.includes(r)),
+    requestHanyaSsr: [...req.ssr.keys()].filter((k) => !req.ssg.has(k)),
+    requestHanyaSsg: [...req.ssg.keys()].filter((k) => !req.ssr.has(k)),
+    selisihBytePerRequest: Object.fromEntries(
+      [...req.ssr.keys()].filter((k) => req.ssg.has(k)).map((k) => [k, req.ssr.get(k) - req.ssg.get(k)]),
+    ),
   };
   for (const kondisi of ['ssr', 'ssg']) {
     const data = lhr[kondisi].fullPageScreenshot?.screenshot?.data;

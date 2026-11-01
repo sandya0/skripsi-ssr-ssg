@@ -71,11 +71,11 @@ python analysis/compare_screenshots.py results/equivalence
 # 4. Perencanaan jumlah pasangan dari pilot (Persamaan 3.4)
 python analysis/analyze.py results/pilot-devtools/runs.csv --plan --out results/rencana
 
-# 5. Pengumpulan utama: n pasangan dibagi rata ke tiga sesi pada hari dan waktu berbeda
-#    (pagi 08.00-10.00, siang 13.00-15.00, malam 20.00-22.00 WIB)
-node experiment/run-audits.mjs --base-url BASE --mode main --pairs N/3 --session main-1 --seed 201
-node experiment/run-audits.mjs --base-url BASE --mode main --pairs N/3 --session main-2 --seed 202
-node experiment/run-audits.mjs --base-url BASE --mode main --pairs N/3 --session main-3 --seed 203
+# 5. Pengumpulan utama: hasil perencanaan pilot = 39 pasangan, 13 per sesi, pada hari dan waktu
+#    berbeda (pagi 08.00-10.00, siang 13.00-15.00, malam 20.00-22.00 WIB)
+node experiment/run-audits.mjs --base-url BASE --mode main --pairs 13 --session main-1 --seed 201
+node experiment/run-audits.mjs --base-url BASE --mode main --pairs 13 --session main-2 --seed 202
+node experiment/run-audits.mjs --base-url BASE --mode main --pairs 13 --session main-3 --seed 203
 
 # 6. Analisis konfirmatori
 python analysis/analyze.py results/main-1/runs.csv results/main-2/runs.csv results/main-3/runs.csv \
@@ -85,6 +85,14 @@ python analysis/analyze.py results/main-1/runs.csv results/main-2/runs.csv resul
 
 Parameter bawaan runner: pemanasan 3 request per route per blok, jeda 10 detik antaraudit,
 penghentian bila proporsi pasangan keluar melebihi 10% setelah 10 blok.
+
+## Hasil pilot (2 November 2026, 00.54-01.13 WIB)
+
+`BASE` = `https://skripsi-ssr-ssrg.vercel.app`. 12 pasangan `devtools` + 6 pasangan `simulate`, semua valid,
+satu instans fungsi SSR (tanpa cold start), `benchmarkIndex` 2003-2058. Perencanaan
+(`results/pilot-devtools/analisis/rencana-jumlah-pasangan.json`): deteksi Δ = 100 ms butuh 13 pasangan;
+presisi untuk kesimpulan "dapat diabaikan" (selisih asumsi 50 ms) butuh 39 pasangan. **n = 39 (13 per sesi).**
+Pada deployment, dokumen SSR dan SSG hanya berbeda 14 byte setelah kompresi; seluruh 11 request identik URL-nya.
 
 ## Catatan temuan uji coba lokal
 
@@ -98,4 +106,9 @@ penghentian bila proporsi pasangan keluar melebihi 10% setelah 10 blok.
   sebelum kompresi). Byte transfer dokumen SSR lebih besar (5.166 vs 4.303 byte secara lokal)
   karena dikirim secara streaming dengan header berbeda. Seluruh 10 subresource identik.
   Perbedaan ini merupakan bagian dari perlakuan, bukan perbedaan isi.
+- **Mode tamu Chrome tidak dapat dipakai.** Dengan `--guest`, Lighthouse gagal dengan
+  `Protocol error (Target.createTarget): Failed to open a new tab`, baik headless maupun tidak,
+  karena profil tamu menolak pembuatan tab melalui DevTools Protocol. Runner memakai profil
+  sementara baru yang kosong untuk setiap audit (bawaan chrome-launcher, dengan ekstensi, sinkronisasi,
+  dan jaringan latar dinonaktifkan), yang memberikan keadaan bersih setara atau lebih ketat.
 - Data uji coba lokal (`results/smoke-*`) bukan data penelitian dan tidak disertakan di Git.

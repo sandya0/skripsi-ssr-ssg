@@ -1,0 +1,332 @@
+{
+  "delta_ms": 100.0,
+  "alpha_keluarga": 0.05,
+  "alpha_per_metrik": 0.016666666666666666,
+  "jumlah_pasangan": 12,
+  "deskriptif": {
+    "ttfb": {
+      "SSR": {
+        "n": 12,
+        "median": 113.5,
+        "q1": 111.75,
+        "q3": 119.5,
+        "iqr": 7.75,
+        "rerata": 125.33333333333333,
+        "sd": 36.68622068132377,
+        "cv_persen": 29.270920756375347
+      },
+      "SSG": {
+        "n": 12,
+        "median": 118.5,
+        "q1": 112.75,
+        "q3": 121.25,
+        "iqr": 8.5,
+        "rerata": 117.83333333333333,
+        "sd": 7.963933853582815,
+        "cv_persen": 6.7586425914422765
+      }
+    },
+    "fcp": {
+      "SSR": {
+        "n": 12,
+        "median": 1516.5,
+        "q1": 1510.25,
+        "q3": 1533.25,
+        "iqr": 23.0,
+        "rerata": 1526.1666666666667,
+        "sd": 33.75266543907939,
+        "cv_persen": 2.2115976043952856
+      },
+      "SSG": {
+        "n": 12,
+        "median": 1556.0,
+        "q1": 1540.75,
+        "q3": 1582.25,
+        "iqr": 41.5,
+        "rerata": 1568.8333333333333,
+        "sd": 41.179945104235856,
+        "cv_persen": 2.6248769852907166
+      }
+    },
+    "lcp": {
+      "SSR": {
+        "n": 12,
+        "median": 1795.5,
+        "q1": 1767.5,
+        "q3": 1800.5,
+        "iqr": 33.0,
+        "rerata": 1793.6666666666667,
+        "sd": 39.45845532924087,
+        "cv_persen": 2.1998767141371975
+      },
+      "SSG": {
+        "n": 12,
+        "median": 1808.5,
+        "q1": 1794.25,
+        "q3": 1827.75,
+        "iqr": 33.5,
+        "rerata": 1818.4166666666667,
+        "sd": 54.92550050805733,
+        "cv_persen": 3.0205123784276062
+      }
+    }
+  },
+  "uji": {
+    "ttfb": {
+      "n_pasangan": 12,
+      "shapiro_p": 8.966985921232233e-05,
+      "skewness": 2.578177471470959,
+      "uji": "wilcoxon",
+      "selisih_deskriptif": {
+        "n": 12,
+        "median": -5.5,
+        "q1": -10.25,
+        "q3": 5.75,
+        "iqr": 16.0,
+        "rerata": 7.5,
+        "sd": 37.073636798330774,
+        "cv_persen": 494.315157311077
+      },
+      "p": 0.791015625,
+      "p_bonferroni": 1.0,
+      "signifikan": false,
+      "estimasi_selisih_ms": -2.25,
+      "ukuran_efek": {
+        "rank_biserial": -0.08974358974358974
+      },
+      "ci95": [
+        -10.0,
+        12.5
+      ],
+      "ci_simultan_98.33": [
+        -11.5,
+        55.0
+      ],
+      "relevansi_praktis": "dapat diabaikan secara praktis",
+      "selisih_relatif_persen": -1.89873417721519
+    },
+    "fcp": {
+      "n_pasangan": 12,
+      "shapiro_p": 0.6664893676585828,
+      "skewness": 0.19183326559774372,
+      "uji": "t",
+      "selisih_deskriptif": {
+        "n": 12,
+        "median": -39.0,
+        "q1": -72.25,
+        "q3": -20.75,
+        "iqr": 51.5,
+        "rerata": -42.666666666666664,
+        "sd": 57.733452305847045,
+        "cv_persen": NaN
+      },
+      "p": 0.026515309683262787,
+      "p_bonferroni": 0.07954592904978836,
+      "signifikan": false,
+      "estimasi_selisih_ms": -42.666666666666664,
+      "ukuran_efek": {
+        "d_z": -0.7390285001603053
+      },
+      "ci95": [
+        -79.34875220660626,
+        -5.984581126727058
+      ],
+      "ci_simultan_98.33": [
+        -89.66594647391113,
+        4.332613140577806
+      ],
+      "relevansi_praktis": "dapat diabaikan secara praktis",
+      "selisih_relatif_persen": -2.7420736932305054
+    },
+    "lcp": {
+      "n_pasangan": 12,
+      "shapiro_p": 0.5784198060744874,
+      "skewness": -0.0815543271970226,
+      "uji": "t",
+      "selisih_deskriptif": {
+        "n": 12,
+        "median": -39.0,
+        "q1": -58.75,
+        "q3": 9.5,
+        "iqr": 68.25,
+        "rerata": -24.75,
+        "sd": 70.67483157519244,
+        "cv_persen": NaN
+      },
+      "p": 0.25049453189714166,
+      "p_bonferroni": 0.751483595691425,
+      "signifikan": false,
+      "estimasi_selisih_ms": -24.75,
+      "ukuran_efek": {
+        "d_z": -0.3501953870759204
+      },
+      "ci95": [
+        -69.65464563989835,
+        20.154645639898348
+      ],
+      "ci_simultan_98.33": [
+        -82.28451511847211,
+        32.78451511847212
+      ],
+      "relevansi_praktis": "dapat diabaikan secara praktis",
+      "selisih_relatif_persen": -1.3685374619850705
+    }
+  },
+  "sensitivitas": {
+    "tanpa_far_out": {
+      "ttfb": {
+        "dikeluarkan": 1,
+        "n_pasangan": 11,
+        "shapiro_p": 0.2224305016566417,
+        "skewness": 0.8224604006815944,
+        "uji": "t",
+        "selisih_deskriptif": {
+          "n": 11,
+          "median": -8.0,
+          "q1": -10.5,
+          "q3": 4.0,
+          "iqr": 14.5,
+          "rerata": -2.727272727272727,
+          "sd": 11.455050493916724,
+          "cv_persen": NaN
+        },
+        "p": 0.4480578774561209,
+        "p_bonferroni": 1.0,
+        "signifikan": false,
+        "estimasi_selisih_ms": -2.727272727272727,
+        "ukuran_efek": {
+          "d_z": -0.23808474076312997
+        },
+        "ci95": [
+          -10.422880361557157,
+          4.9683349070117035
+        ],
+        "ci_simultan_98.33": [
+          -12.640008749795944,
+          7.185463295250491
+        ],
+        "relevansi_praktis": "dapat diabaikan secara praktis"
+      },
+      "fcp": {
+        "dikeluarkan": 0,
+        "n_pasangan": 12,
+        "shapiro_p": 0.6664893676585828,
+        "skewness": 0.19183326559774372,
+        "uji": "t",
+        "selisih_deskriptif": {
+          "n": 12,
+          "median": -39.0,
+          "q1": -72.25,
+          "q3": -20.75,
+          "iqr": 51.5,
+          "rerata": -42.666666666666664,
+          "sd": 57.733452305847045,
+          "cv_persen": NaN
+        },
+        "p": 0.026515309683262787,
+        "p_bonferroni": 0.07954592904978836,
+        "signifikan": false,
+        "estimasi_selisih_ms": -42.666666666666664,
+        "ukuran_efek": {
+          "d_z": -0.7390285001603053
+        },
+        "ci95": [
+          -79.34875220660626,
+          -5.984581126727058
+        ],
+        "ci_simultan_98.33": [
+          -89.66594647391113,
+          4.332613140577806
+        ],
+        "relevansi_praktis": "dapat diabaikan secara praktis"
+      },
+      "lcp": {
+        "dikeluarkan": 0,
+        "n_pasangan": 12,
+        "shapiro_p": 0.5784198060744874,
+        "skewness": -0.0815543271970226,
+        "uji": "t",
+        "selisih_deskriptif": {
+          "n": 12,
+          "median": -39.0,
+          "q1": -58.75,
+          "q3": 9.5,
+          "iqr": 68.25,
+          "rerata": -24.75,
+          "sd": 70.67483157519244,
+          "cv_persen": NaN
+        },
+        "p": 0.25049453189714166,
+        "p_bonferroni": 0.751483595691425,
+        "signifikan": false,
+        "estimasi_selisih_ms": -24.75,
+        "ukuran_efek": {
+          "d_z": -0.3501953870759204
+        },
+        "ci95": [
+          -69.65464563989835,
+          20.154645639898348
+        ],
+        "ci_simultan_98.33": [
+          -82.28451511847211,
+          32.78451511847212
+        ],
+        "relevansi_praktis": "dapat diabaikan secara praktis"
+      }
+    },
+    "menurut_urutan": {
+      "SSG>SSR": {
+        "ttfb": {
+          "n": 7,
+          "rerata_selisih": 12.142857142857142,
+          "median_selisih": -8.0
+        },
+        "fcp": {
+          "n": 7,
+          "rerata_selisih": -42.57142857142857,
+          "median_selisih": -50.0
+        },
+        "lcp": {
+          "n": 7,
+          "rerata_selisih": -26.857142857142858,
+          "median_selisih": -56.0
+        }
+      },
+      "SSR>SSG": {
+        "ttfb": {
+          "n": 5,
+          "rerata_selisih": 1.0,
+          "median_selisih": -3.0
+        },
+        "fcp": {
+          "n": 5,
+          "rerata_selisih": -42.8,
+          "median_selisih": -27.0
+        },
+        "lcp": {
+          "n": 5,
+          "rerata_selisih": -21.8,
+          "median_selisih": -22.0
+        }
+      }
+    }
+  },
+  "diagnostik_uraian_lcp": {
+    "ttfb": 7.5,
+    "lcpLoadDelay": -1.5,
+    "lcpLoadDuration": -30.916666666666668,
+    "lcpRenderDelay": 0.25,
+    "lcp": -24.75
+  },
+  "benchmark_index": {
+    "n": 24,
+    "median": 2023.5,
+    "q1": 2016.375,
+    "q3": 2040.5,
+    "iqr": 24.125,
+    "rerata": 2027.6875,
+    "sd": 15.96791109640233,
+    "cv_persen": 0.7874936890621622
+  },
+  "jumlah_pasangan_dianalisis": 12
+}
