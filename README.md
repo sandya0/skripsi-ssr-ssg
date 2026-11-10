@@ -81,6 +81,16 @@ node experiment/run-audits.mjs --base-url BASE --mode main --pairs 13 --session 
 python analysis/analyze.py results/main-1/runs.csv results/main-2/runs.csv results/main-3/runs.csv \
        --mode main --expected-lcp "main.halaman > article > header.kepala > img.gambar-utama" \
        --out results/analisis
+
+# 7. Pelengkap Bab 4 (ditulis setelah data terkumpul; eksploratori, bukan analisis konfirmatori):
+#    gambar, perbandingan antarsesi, estimasi setara urutan, dan waktu jaringan
+python analysis/laporan_bab4.py --out results/analisis
+
+# 8. Verifikasi kesetaraan ulang pada akhir pengumpulan data
+node experiment/check-equivalence.mjs --base-url BASE --out results/equivalence-akhir \
+     --lhr-ssr results/main-2/raw/main-2-b001-SSR.json.gz \
+     --lhr-ssg results/main-2/raw/main-2-b001-SSG.json.gz
+python analysis/compare_screenshots.py results/equivalence-akhir
 ```
 
 Parameter bawaan runner: pemanasan 3 request per route per blok, jeda 10 detik antaraudit,
@@ -93,6 +103,22 @@ satu instans fungsi SSR (tanpa cold start), `benchmarkIndex` 2003-2058. Perencan
 (`results/pilot-devtools/analisis/rencana-jumlah-pasangan.json`): deteksi Δ = 100 ms butuh 13 pasangan;
 presisi untuk kesimpulan "dapat diabaikan" (selisih asumsi 50 ms) butuh 39 pasangan. **n = 39 (13 per sesi).**
 Pada deployment, dokumen SSR dan SSG hanya berbeda 14 byte setelah kompresi; seluruh 11 request identik URL-nya.
+
+## Hasil utama (November 2026)
+
+39 pasangan valid, 0 keluar: `main-1` (pagi, 2 Nov), `main-3` (malam, 3 Nov), `main-2` (siang, 6 Nov).
+Sesi `main-2` dijalankan setelah `main-3` karena perubahan jadwal. Uji Wilcoxon, selisih SSR - SSG:
+
+| Metrik | Estimasi (ms) | Interval simultan 98,33% (ms) | p terkoreksi | Klasifikasi (Δ = 100 ms) |
+|---|---|---|---|---|
+| TTFB | -2,5 | [-9,5; 3,0] | 0,644 | dapat diabaikan |
+| FCP | -25,5 | [-43,5; -11,0] | 0,0003 | dapat diabaikan |
+| LCP | -33,5 | [-71,5; -14,5] | 0,0001 | dapat diabaikan |
+
+**Catatan pengacakan.** Seed blok adalah `s + b` dan seed sesi berurutan (201, 202, 203), sehingga urutan
+ketiga sesi merupakan deret yang sama dengan pergeseran satu blok: 15 nilai acak untuk 39 pasangan, dengan
+28 pasangan SSR lebih dahulu dan 11 SSG lebih dahulu. Replikasi sebaiknya memakai seed yang tidak tumpang
+tindih dan urutan yang seimbang. Dampaknya dianalisis pada `results/analisis/laporan-bab4.json`.
 
 ## Catatan temuan uji coba lokal
 
