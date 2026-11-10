@@ -23,6 +23,10 @@ const { values: argumen } = parseArgs({
     mode: { type: 'string', default: 'pilot' }, // pilot | main | smoke
     pairs: { type: 'string', default: '12' }, // jumlah pasangan VALID yang ditargetkan
     seed: { type: 'string', default: '20261102' },
+    // koin: lempar koin per blok dengan seed s+b (pengumpulan pertama, main-1..3).
+    // seimbang: setiap dua blok berurutan berisi satu SSR>SSG dan satu SSG>SSR dengan
+    // urutan acak dari satu aliran acak per sesi (seed s), dipakai pada ulang-1..3.
+    order: { type: 'string', default: 'koin' },
     session: { type: 'string' },
     throttling: { type: 'string', default: 'devtools' }, // devtools | simulate
     warmup: { type: 'string', default: '3' },
@@ -43,6 +47,24 @@ const SEED = Number(argumen.seed);
 const PEMANASAN = Number(argumen.warmup);
 const JEDA_MS = Number(argumen['pause-ms']);
 const MAKS_EKSKLUSI = Number(argumen['max-exclusion']);
+if (!['koin', 'seimbang'].includes(argumen.order)) {
+  console.error('--order harus koin atau seimbang');
+  process.exit(1);
+}
+const acakSesi = mulberry32(SEED);
+let urutanGenap = null;
+function tentukanUrutan(nomorBlok) {
+  if (argumen.order === 'koin') {
+    const acak = mulberry32(SEED + nomorBlok);
+    return acak() < 0.5 ? ['SSR', 'SSG'] : ['SSG', 'SSR'];
+  }
+  if (nomorBlok % 2 === 1) {
+    const pertama = acakSesi() < 0.5 ? ['SSR', 'SSG'] : ['SSG', 'SSR'];
+    urutanGenap = [pertama[1], pertama[0]];
+    return pertama;
+  }
+  return urutanGenap;
+}
 const MAKS_BLOK = Math.ceil(TARGET_PASANGAN * 1.5) + 2;
 const URL_KONDISI = {
   SSR: `${BASE}/ssr/${argumen.slug}`,
@@ -118,8 +140,7 @@ let blok = 0;
 
 while (pasanganValid < TARGET_PASANGAN && blok < MAKS_BLOK) {
   blok += 1;
-  const acak = mulberry32(SEED + blok);
-  const urutan = acak() < 0.5 ? ['SSR', 'SSG'] : ['SSG', 'SSR'];
+  const urutan = tentukanUrutan(blok);
 
   await pemanasan();
   const sebelum = { SSR: await ambilProbe(URL_KONDISI.SSR), SSG: await ambilProbe(URL_KONDISI.SSG) };
