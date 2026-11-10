@@ -51,6 +51,14 @@ Sebelum setiap sesi:
 
 Terminal yang menjalankan Claude Code tetap terbuka selama sesi, sama seperti pada pengumpulan pertama.
 
+**Tambahan setelah `ulang-2` (10 November 2026, 14.30 WIB).** Selama `ulang-2`, Phone Link dan WhatsApp aktif kembali dengan sendirinya setelah dihentikan (lihat `results/ulang-2/catatan.md`). Untuk `ulang-1` dan `ulang-3`:
+
+- Izin berjalan di latar dan startup otomatis WhatsApp dinonaktifkan, dan akses PC ke perangkat seluler (Phone Link) dimatikan.
+- Snapshot lingkungan kini juga mencatat waktu mulai dan total waktu CPU setiap proses yang dipantau.
+- Apabila suatu aplikasi aktif kembali di tengah sesi, sesi tetap dilanjutkan tanpa intervensi, kejadiannya dicatat, dan blok terkait tidak dikeluarkan kecuali memenuhi kriteria eksklusi yang telah ditetapkan.
+
+Prosedur pengukuran, seed, urutan, dan analisis tidak berubah.
+
 ## Perintah
 
 ```bash

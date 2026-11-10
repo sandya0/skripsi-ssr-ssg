@@ -36,10 +36,15 @@ $cpu = 1..5 | ForEach-Object {
 Tulis "Beban CPU (5 s) : $($cpu -join ', ') %"
 Tulis ''
 
-$pola = 'chrome|msedge|firefox|steam|discord|riot|league|vgc|onedrive|spotify|teams|epic|battle|whatsapp|crossdevice|phonelink'
-Tulis '== Proses aplikasi latar yang dipantau =='
+$pola = 'chrome|msedge|firefox|steam|discord|riot|league|vgc|onedrive|spotify|teams|epic|battle|whatsapp|crossdevice|phonelink|phoneexperience'
+Tulis '== Proses aplikasi latar yang dipantau (mulai paling awal, total CPU) =='
 $dipantau = Get-Process | Where-Object { $_.ProcessName -match $pola } |
-    Group-Object ProcessName | ForEach-Object { "{0,-30} x{1}" -f $_.Name, $_.Count }
+    Group-Object ProcessName | ForEach-Object {
+        $mulai = ($_.Group | Where-Object StartTime | Sort-Object StartTime | Select-Object -First 1).StartTime
+        $teksMulai = if ($mulai) { $mulai.ToString('HH:mm:ss') } else { '?' }
+        $cpuTotal = ($_.Group | Measure-Object CPU -Sum).Sum
+        "{0,-30} x{1,-3} mulai {2}  CPU {3,7:N1} s" -f $_.Name, $_.Count, $teksMulai, $cpuTotal
+    }
 if ($dipantau) { $dipantau | ForEach-Object { Tulis $_ } } else { Tulis '(tidak ada)' }
 Tulis ''
 
